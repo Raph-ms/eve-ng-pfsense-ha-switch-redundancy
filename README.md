@@ -45,7 +45,7 @@ flowchart TD
 
 Nos links entre equipamentos diferentes, o primeiro identificador pertence ao equipamento de origem da linha. A VM Windows foi utilizada em testes alternados na `Gi0/1` dos switches de acesso; as evidências não demonstram dois clientes simultâneos.
 
-[Captura da topologia com o cabeamento corrigido](assets/evidencias/topologia-corrigida.png).
+[Captura da topologia](assets/evidencias/Topologia.png).
 
 ## Equipamentos
 
