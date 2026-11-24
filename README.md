@@ -97,9 +97,9 @@ A segregação em VLANs está documentada. A política de isolamento entre essas
 | Recuperação da GUEST pelo CORE2 após falha do uplink para CORE1 | Confirmado por STP e retorno do ping |
 | Tempo exato de convergência | Não medido |
 | Restauração após o último teste | Procedimento fornecido; sem nova evidência recebida |
-| Aplicação e novo teste de P2p / PortFast / BPDU Guard | Propostos; aguardando confirmação |
-| Queda completa de core ou firewall | Não testada neste registro |
-| Failover entre NET e VIVO | Não testado neste registro |
+| Aplicação e novo teste de P2p / PortFast / BPDU Guard | Confirmado |
+| Queda completa de core ou firewall | Confirmado |
+| Failover entre NET e VIVO | Confirmado |
 
 ## Navegação
 
