@@ -9,6 +9,7 @@ Laboratório no **EVE-NG** com dois pfSense, dois switches core e switches de ac
 ## Objetivos
 
 - Segmentar o laboratório em VLANs.
+- Manter a Infraestrutura em alta disponibilidade.
 - Utilizar VIPs CARP como gateways dos clientes.
 - Manter associações de interfaces consistentes entre os pfSense.
 - Coordenar o DHCP com Kea em alta disponibilidade.
