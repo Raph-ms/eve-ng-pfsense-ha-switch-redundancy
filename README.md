@@ -112,7 +112,6 @@ A segregação em VLANs está documentada. A política de isolamento entre essas
 - [Configurações base consolidadas](configs/base/)
 - [Otimização proposta de RSTP](configs/otimizacao-proposta/)
 - [Referências oficiais](docs/referencias.md)
-- [Como publicar no GitHub](docs/publicacao.md)
 
 ## Como utilizar este repositório
 
