@@ -4,8 +4,7 @@ Laboratório no **EVE-NG** com dois pfSense, dois switches core e switches de ac
 
 **Resultado comprovado:** entrega de DHCP nas VLANs 10 e 20, eleição do CORE1 como root e recuperação do acesso ao gateway da GUEST após desativar seu uplink para o CORE1.
 
-> O teste de falha de um uplink foi concluído. A queda completa de um core, o failover completo dos firewalls, a contingência dos provedores e o resultado da otimização de RSTP ainda precisam de validação.
-
+> O teste de falha de um uplink foi concluído. 
 ## Objetivos
 
 - Segmentar o laboratório em VLANs.
