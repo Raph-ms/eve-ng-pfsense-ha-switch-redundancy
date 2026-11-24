@@ -128,5 +128,3 @@ Os arquivos `.cfg` são **configurações mínimas reconstruídas a partir das a
 ## Conteúdo para publicação
 
 O pacote inclui documentação, comandos e capturas selecionadas. O backup XML completo do pfSense, chaves, certificados e credenciais não fazem parte do repositório público. Nenhuma imagem de sistema operacional é distribuída.
-
-Sugestão de nome para o repositório: **`eve-ng-pfsense-ha-switch-redundancy`**.
